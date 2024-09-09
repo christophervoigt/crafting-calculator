@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.email "chlorophyllkid@gmail.com"
           git config user.name "Christopher Voigt"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/christophervoigt/blog.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/christophervoigt/crafting-calculator.git
           git checkout main
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin main)
