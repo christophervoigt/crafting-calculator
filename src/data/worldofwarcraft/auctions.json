@@ -1,0 +1,146 @@
+[
+  {
+    "id": 210930,
+    "name": "Bismuth",
+    "auctions": 2158,
+    "price": 39.9
+  },
+  {
+    "id": 210931,
+    "name": "Bismuth",
+    "auctions": 1885,
+    "price": 40.34
+  },
+  {
+    "id": 210932,
+    "name": "Bismuth",
+    "auctions": 645,
+    "price": 210.9
+  },
+  {
+    "id": 210933,
+    "name": "Aqirite",
+    "auctions": 1746,
+    "price": 13.99
+  },
+  {
+    "id": 210934,
+    "name": "Aqirite",
+    "auctions": 1462,
+    "price": 17.97
+  },
+  {
+    "id": 210935,
+    "name": "Aqirite",
+    "auctions": 1864,
+    "price": 23.9
+  },
+  {
+    "id": 210936,
+    "name": "Ironclaw Ore",
+    "auctions": 2335,
+    "price": 13.62
+  },
+  {
+    "id": 210937,
+    "name": "Ironclaw Ore",
+    "auctions": 452,
+    "price": 20.01
+  },
+  {
+    "id": 210938,
+    "name": "Ironclaw Ore",
+    "auctions": 1830,
+    "price": 35.99
+  },
+  {
+    "id": 210796,
+    "name": "Mycobloom",
+    "auctions": 2084,
+    "price": 29
+  },
+  {
+    "id": 210797,
+    "name": "Mycobloom",
+    "auctions": 1245,
+    "price": 31
+  },
+  {
+    "id": 210798,
+    "name": "Mycobloom",
+    "auctions": 1448,
+    "price": 42
+  },
+  {
+    "id": 210799,
+    "name": "Luredrop",
+    "auctions": 1693,
+    "price": 32
+  },
+  {
+    "id": 210800,
+    "name": "Luredrop",
+    "auctions": 3144,
+    "price": 57
+  },
+  {
+    "id": 210801,
+    "name": "Luredrop",
+    "auctions": 1058,
+    "price": 310.83
+  },
+  {
+    "id": 210802,
+    "name": "Orbinid",
+    "auctions": 3171,
+    "price": 12
+  },
+  {
+    "id": 210803,
+    "name": "Orbinid",
+    "auctions": 1956,
+    "price": 33.22
+  },
+  {
+    "id": 210804,
+    "name": "Orbinid",
+    "auctions": 1078,
+    "price": 180.36
+  },
+  {
+    "id": 210805,
+    "name": "Blessing Blossom",
+    "auctions": 1899,
+    "price": 12
+  },
+  {
+    "id": 210806,
+    "name": "Blessing Blossom",
+    "auctions": 1869,
+    "price": 22.99
+  },
+  {
+    "id": 210807,
+    "name": "Blessing Blossom",
+    "auctions": 1328,
+    "price": 75.83
+  },
+  {
+    "id": 210808,
+    "name": "Arathor's Spear",
+    "auctions": 2145,
+    "price": 19
+  },
+  {
+    "id": 210809,
+    "name": "Arathor's Spear",
+    "auctions": 2537,
+    "price": 44
+  },
+  {
+    "id": 210810,
+    "name": "Arathor's Spear",
+    "auctions": 1228,
+    "price": 241.81
+  }
+]

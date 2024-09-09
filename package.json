@@ -7,11 +7,18 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+		"lint": "stylelint \"src/**/*.css\" --fix"
   },
   "dependencies": {
     "astro": "^4.15.4",
     "@astrojs/check": "^0.9.3",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+		"dotenv": "^16.4.5",
+		"prettier": "^3.3.3",
+		"stylelint": "^16.7.0",
+		"stylelint-order": "^6.0.4"
   }
 }
