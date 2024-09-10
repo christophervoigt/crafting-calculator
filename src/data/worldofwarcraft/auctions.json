@@ -2,145 +2,145 @@
   {
     "id": 210930,
     "name": "Bismuth",
-    "auctions": 3100,
-    "price": 33.6
+    "auctions": 3132,
+    "price": 33.2
   },
   {
     "id": 210931,
     "name": "Bismuth",
-    "auctions": 2921,
-    "price": 34
+    "auctions": 2860,
+    "price": 33.02
   },
   {
     "id": 210932,
     "name": "Bismuth",
-    "auctions": 1109,
-    "price": 196
+    "auctions": 1196,
+    "price": 193.95
   },
   {
     "id": 210933,
     "name": "Aqirite",
-    "auctions": 1406,
-    "price": 12.9
+    "auctions": 1174,
+    "price": 11
   },
   {
     "id": 210934,
     "name": "Aqirite",
-    "auctions": 907,
-    "price": 17.11
+    "auctions": 713,
+    "price": 21.77
   },
   {
     "id": 210935,
     "name": "Aqirite",
-    "auctions": 1625,
-    "price": 24.94
+    "auctions": 1514,
+    "price": 25.88
   },
   {
     "id": 210936,
     "name": "Ironclaw Ore",
-    "auctions": 1826,
-    "price": 14
+    "auctions": 1609,
+    "price": 7.55
   },
   {
     "id": 210937,
     "name": "Ironclaw Ore",
-    "auctions": 1408,
-    "price": 16.18
+    "auctions": 1419,
+    "price": 15.33
   },
   {
     "id": 210938,
     "name": "Ironclaw Ore",
-    "auctions": 1050,
-    "price": 39.17
+    "auctions": 1175,
+    "price": 37
   },
   {
     "id": 210796,
     "name": "Mycobloom",
-    "auctions": 4046,
-    "price": 23
+    "auctions": 3821,
+    "price": 18.12
   },
   {
     "id": 210797,
     "name": "Mycobloom",
-    "auctions": 2093,
-    "price": 23
+    "auctions": 2184,
+    "price": 25.09
   },
   {
     "id": 210798,
     "name": "Mycobloom",
-    "auctions": 2565,
-    "price": 35.89
+    "auctions": 2403,
+    "price": 38.3
   },
   {
     "id": 210799,
     "name": "Luredrop",
-    "auctions": 1289,
-    "price": 35.28
+    "auctions": 1286,
+    "price": 36.55
   },
   {
     "id": 210800,
     "name": "Luredrop",
-    "auctions": 575,
-    "price": 53
+    "auctions": 670,
+    "price": 62.4
   },
   {
     "id": 210801,
     "name": "Luredrop",
-    "auctions": 461,
-    "price": 320
+    "auctions": 502,
+    "price": 330
   },
   {
     "id": 210802,
     "name": "Orbinid",
-    "auctions": 2422,
-    "price": 10.05
+    "auctions": 2317,
+    "price": 12.98
   },
   {
     "id": 210803,
     "name": "Orbinid",
-    "auctions": 308,
-    "price": 37.9
+    "auctions": 319,
+    "price": 37.69
   },
   {
     "id": 210804,
     "name": "Orbinid",
-    "auctions": 448,
-    "price": 180
+    "auctions": 398,
+    "price": 185.5
   },
   {
     "id": 210805,
     "name": "Blessing Blossom",
-    "auctions": 2516,
-    "price": 10.92
+    "auctions": 2276,
+    "price": 11.04
   },
   {
     "id": 210806,
     "name": "Blessing Blossom",
-    "auctions": 2373,
-    "price": 15
+    "auctions": 2382,
+    "price": 17.37
   },
   {
     "id": 210807,
     "name": "Blessing Blossom",
-    "auctions": 2447,
-    "price": 79
+    "auctions": 2273,
+    "price": 79.9
   },
   {
     "id": 210808,
     "name": "Arathor's Spear",
-    "auctions": 2305,
+    "auctions": 2284,
     "price": 20
   },
   {
     "id": 210809,
     "name": "Arathor's Spear",
-    "auctions": 2169,
-    "price": 40.99
+    "auctions": 2065,
+    "price": 46
   },
   {
     "id": 210810,
     "name": "Arathor's Spear",
-    "auctions": 2040,
-    "price": 232.98
+    "auctions": 1877,
+    "price": 246
   }
 ]
