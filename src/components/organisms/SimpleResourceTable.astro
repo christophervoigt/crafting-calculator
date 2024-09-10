@@ -1,0 +1,30 @@
+---
+import auctions from '../../data/worldofwarcraft/auctions.json'
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Type</th>
+			<th>Q1</th>
+			<th>Q2</th>
+			<th>Q3</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		{
+			auctions.map(({ name, type, items }) => (
+				<tr>
+					<td>{name}</td>
+					<td>{type}</td>
+
+					{items.map(({ price }) => (
+						<td>{new Intl.NumberFormat('en-US', { minimumFractionDigits: 2 }).format(price)}</td>
+					))}
+				</tr>
+			))
+		}
+	</tbody>
+</table>

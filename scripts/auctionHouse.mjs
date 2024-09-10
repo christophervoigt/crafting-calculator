@@ -69,7 +69,9 @@ const { auctions } = auctionHouse
 
 const refinedItems = itemIds.map(async (itemId) => {
 	const itemData = await fetchItem(itemId, access_token)
-	const itemName = itemData.name
+	const { name, item_subclass } = itemData
+	const itemName = name
+	const itemType = item_subclass.name
 
 	let itemAuctions = auctions.filter((auction) => auction.item.id === itemId)
 	const totalAuctions = itemAuctions.length
@@ -92,6 +94,7 @@ const refinedItems = itemIds.map(async (itemId) => {
 	return {
 		id: itemId,
 		name: itemName,
+		type: itemType,
 		auctions: totalAuctions,
 		price: itemPrice,
 	}
@@ -99,5 +102,32 @@ const refinedItems = itemIds.map(async (itemId) => {
 
 const items = await Promise.all(refinedItems)
 
+const itemsByName = items.reduce((acc, item) => {
+	const filteredArray = acc.filter((i) => i.name === item.name)
+
+	if (filteredArray.length === 0) {
+		acc.push({
+			name: item.name,
+			type: item.type,
+			items: [
+				{
+					id: item.id,
+					auctions: item.auctions,
+					price: item.price,
+				},
+			],
+		})
+	} else {
+		const index = acc.findIndex((i) => i.name === item.name)
+		acc[index].items.push({
+			id: item.id,
+			auctions: item.auctions,
+			price: item.price,
+		})
+	}
+
+	return acc
+}, [])
+
 const filename = `src/data/worldofwarcraft/auctions.json`
-fs.writeFileSync(filename, JSON.stringify(items, null, 2))
+fs.writeFileSync(filename, JSON.stringify(itemsByName, null, 2))

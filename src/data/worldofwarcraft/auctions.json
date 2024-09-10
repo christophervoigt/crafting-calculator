@@ -1,146 +1,170 @@
 [
   {
-    "id": 210930,
     "name": "Bismuth",
-    "auctions": 2666,
-    "price": 35.36
+    "type": "Metal & Stone",
+    "items": [
+      {
+        "id": 210930,
+        "auctions": 2810,
+        "price": 35
+      },
+      {
+        "id": 210931,
+        "auctions": 2198,
+        "price": 37.26
+      },
+      {
+        "id": 210932,
+        "auctions": 1049,
+        "price": 198
+      }
+    ]
   },
   {
-    "id": 210931,
-    "name": "Bismuth",
-    "auctions": 2503,
-    "price": 36.08
-  },
-  {
-    "id": 210932,
-    "name": "Bismuth",
-    "auctions": 1396,
-    "price": 190.22
-  },
-  {
-    "id": 210933,
     "name": "Aqirite",
-    "auctions": 1171,
-    "price": 14.5
+    "type": "Metal & Stone",
+    "items": [
+      {
+        "id": 210933,
+        "auctions": 1288,
+        "price": 13
+      },
+      {
+        "id": 210934,
+        "auctions": 992,
+        "price": 20
+      },
+      {
+        "id": 210935,
+        "auctions": 1505,
+        "price": 24
+      }
+    ]
   },
   {
-    "id": 210934,
-    "name": "Aqirite",
-    "auctions": 933,
-    "price": 20
-  },
-  {
-    "id": 210935,
-    "name": "Aqirite",
-    "auctions": 1439,
-    "price": 28.22
-  },
-  {
-    "id": 210936,
     "name": "Ironclaw Ore",
-    "auctions": 1499,
-    "price": 14.64
+    "type": "Metal & Stone",
+    "items": [
+      {
+        "id": 210936,
+        "auctions": 1676,
+        "price": 14
+      },
+      {
+        "id": 210937,
+        "auctions": 1319,
+        "price": 17
+      },
+      {
+        "id": 210938,
+        "auctions": 1144,
+        "price": 37
+      }
+    ]
   },
   {
-    "id": 210937,
-    "name": "Ironclaw Ore",
-    "auctions": 1469,
-    "price": 16.99
-  },
-  {
-    "id": 210938,
-    "name": "Ironclaw Ore",
-    "auctions": 1344,
-    "price": 34.42
-  },
-  {
-    "id": 210796,
     "name": "Mycobloom",
-    "auctions": 3746,
-    "price": 24
+    "type": "Herb",
+    "items": [
+      {
+        "id": 210796,
+        "auctions": 3099,
+        "price": 25.95
+      },
+      {
+        "id": 210797,
+        "auctions": 1814,
+        "price": 26
+      },
+      {
+        "id": 210798,
+        "auctions": 1808,
+        "price": 41
+      }
+    ]
   },
   {
-    "id": 210797,
-    "name": "Mycobloom",
-    "auctions": 2005,
-    "price": 25.41
-  },
-  {
-    "id": 210798,
-    "name": "Mycobloom",
-    "auctions": 2420,
-    "price": 38.25
-  },
-  {
-    "id": 210799,
     "name": "Luredrop",
-    "auctions": 1354,
-    "price": 35
+    "type": "Herb",
+    "items": [
+      {
+        "id": 210799,
+        "auctions": 1329,
+        "price": 37
+      },
+      {
+        "id": 210800,
+        "auctions": 703,
+        "price": 62
+      },
+      {
+        "id": 210801,
+        "auctions": 301,
+        "price": 330
+      }
+    ]
   },
   {
-    "id": 210800,
-    "name": "Luredrop",
-    "auctions": 670,
-    "price": 62.5
-  },
-  {
-    "id": 210801,
-    "name": "Luredrop",
-    "auctions": 664,
-    "price": 320.9
-  },
-  {
-    "id": 210802,
     "name": "Orbinid",
-    "auctions": 2322,
-    "price": 12.22
+    "type": "Herb",
+    "items": [
+      {
+        "id": 210802,
+        "auctions": 2279,
+        "price": 12.94
+      },
+      {
+        "id": 210803,
+        "auctions": 482,
+        "price": 36.87
+      },
+      {
+        "id": 210804,
+        "auctions": 296,
+        "price": 187.97
+      }
+    ]
   },
   {
-    "id": 210803,
-    "name": "Orbinid",
-    "auctions": 459,
-    "price": 36.86
-  },
-  {
-    "id": 210804,
-    "name": "Orbinid",
-    "auctions": 459,
-    "price": 185
-  },
-  {
-    "id": 210805,
     "name": "Blessing Blossom",
-    "auctions": 2039,
-    "price": 11.99
+    "type": "Herb",
+    "items": [
+      {
+        "id": 210805,
+        "auctions": 1903,
+        "price": 11
+      },
+      {
+        "id": 210806,
+        "auctions": 1717,
+        "price": 20.21
+      },
+      {
+        "id": 210807,
+        "auctions": 1897,
+        "price": 81
+      }
+    ]
   },
   {
-    "id": 210806,
-    "name": "Blessing Blossom",
-    "auctions": 1757,
-    "price": 20.15
-  },
-  {
-    "id": 210807,
-    "name": "Blessing Blossom",
-    "auctions": 2279,
-    "price": 77.22
-  },
-  {
-    "id": 210808,
     "name": "Arathor's Spear",
-    "auctions": 2533,
-    "price": 18.15
-  },
-  {
-    "id": 210809,
-    "name": "Arathor's Spear",
-    "auctions": 2100,
-    "price": 45.22
-  },
-  {
-    "id": 210810,
-    "name": "Arathor's Spear",
-    "auctions": 1953,
-    "price": 240.97
+    "type": "Herb",
+    "items": [
+      {
+        "id": 210808,
+        "auctions": 1959,
+        "price": 21
+      },
+      {
+        "id": 210809,
+        "auctions": 1978,
+        "price": 46
+      },
+      {
+        "id": 210810,
+        "auctions": 1161,
+        "price": 256
+      }
+    ]
   }
 ]
