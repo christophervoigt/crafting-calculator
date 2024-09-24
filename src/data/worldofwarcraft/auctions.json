@@ -5,18 +5,18 @@
     "items": [
       {
         "id": 210930,
-        "auctions": 1239,
-        "price": 20.34
+        "auctions": 1237,
+        "price": 21.15
       },
       {
         "id": 210931,
-        "auctions": 1591,
-        "price": 22.84
+        "auctions": 1275,
+        "price": 22.51
       },
       {
         "id": 210932,
-        "auctions": 1562,
-        "price": 200.96
+        "auctions": 1584,
+        "price": 213.9
       }
     ]
   },
@@ -26,18 +26,18 @@
     "items": [
       {
         "id": 210933,
-        "auctions": 748,
-        "price": 22.99
+        "auctions": 871,
+        "price": 14.02
       },
       {
         "id": 210934,
-        "auctions": 1011,
-        "price": 27.46
+        "auctions": 956,
+        "price": 27.07
       },
       {
         "id": 210935,
-        "auctions": 1750,
-        "price": 33.95
+        "auctions": 2216,
+        "price": 29.3
       }
     ]
   },
@@ -47,18 +47,18 @@
     "items": [
       {
         "id": 210936,
-        "auctions": 746,
-        "price": 20.9
+        "auctions": 928,
+        "price": 22.77
       },
       {
         "id": 210937,
-        "auctions": 919,
-        "price": 15.1
+        "auctions": 987,
+        "price": 24.17
       },
       {
         "id": 210938,
-        "auctions": 1144,
-        "price": 37.07
+        "auctions": 1128,
+        "price": 21.06
       }
     ]
   },
@@ -68,18 +68,18 @@
     "items": [
       {
         "id": 210796,
-        "auctions": 1128,
-        "price": 13.49
+        "auctions": 923,
+        "price": 4.29
       },
       {
         "id": 210797,
-        "auctions": 908,
-        "price": 25.82
+        "auctions": 926,
+        "price": 25.68
       },
       {
         "id": 210798,
-        "auctions": 1510,
-        "price": 29.99
+        "auctions": 1506,
+        "price": 30
       }
     ]
   },
@@ -89,18 +89,18 @@
     "items": [
       {
         "id": 210799,
-        "auctions": 1527,
-        "price": 36.09
+        "auctions": 1392,
+        "price": 62.2
       },
       {
         "id": 210800,
-        "auctions": 2486,
-        "price": 74.57
+        "auctions": 2525,
+        "price": 74.99
       },
       {
         "id": 210801,
-        "auctions": 1556,
-        "price": 399.77
+        "auctions": 1405,
+        "price": 413
       }
     ]
   },
@@ -110,18 +110,18 @@
     "items": [
       {
         "id": 210802,
-        "auctions": 1797,
-        "price": 16.72
+        "auctions": 1876,
+        "price": 16.09
       },
       {
         "id": 210803,
-        "auctions": 2327,
-        "price": 53.17
+        "auctions": 2328,
+        "price": 52.65
       },
       {
         "id": 210804,
-        "auctions": 2256,
-        "price": 289.49
+        "auctions": 2780,
+        "price": 281.97
       }
     ]
   },
@@ -131,18 +131,18 @@
     "items": [
       {
         "id": 210805,
-        "auctions": 641,
-        "price": 18.31
+        "auctions": 708,
+        "price": 11.5
       },
       {
         "id": 210806,
-        "auctions": 1405,
-        "price": 25.23
+        "auctions": 1245,
+        "price": 25.52
       },
       {
         "id": 210807,
-        "auctions": 1207,
-        "price": 138.6
+        "auctions": 1361,
+        "price": 145.18
       }
     ]
   },
@@ -152,18 +152,18 @@
     "items": [
       {
         "id": 210808,
-        "auctions": 1746,
-        "price": 32.98
+        "auctions": 1565,
+        "price": 50.11
       },
       {
         "id": 210809,
-        "auctions": 1263,
-        "price": 74.49
+        "auctions": 1026,
+        "price": 80
       },
       {
         "id": 210810,
-        "auctions": 1325,
-        "price": 396.72
+        "auctions": 1077,
+        "price": 421
       }
     ]
   }
